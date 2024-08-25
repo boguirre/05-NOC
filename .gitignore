@@ -6,3 +6,9 @@ dist/
 logs/
 
 .env
+
+/mongo/
+postgres/
+
+!src/data/mongo/
+!src/data/postgres/
